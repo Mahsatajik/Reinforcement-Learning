@@ -33,11 +33,11 @@ This repository contains the code and related materials for the computer assignm
 To get started with the assignments, follow these steps:
 
 1. Clone the repository to your local machine:
-    ```git clone https://github.com/Mahsatajik/Reinforcement-Learning.git
+    ```git clone https://github.com/Mahsatajik/Reinforcement-Learning.git```
 
 
 2. Navigate to the specific assignment directory you want to work on:
-    ```cd CAX/
+    ```cd CAX/```
     
 
 3. Follow the instructions provided in the assignment's code files to complete the tasks.
