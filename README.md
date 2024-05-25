@@ -34,12 +34,16 @@ To get started with the assignments, follow these steps:
 
 1. Clone the repository to your local machine:
    
-    ```bash git clone https://github.com/Mahsatajik/Reinforcement-Learning.git```
+    ```bash
+   git clone https://github.com/Mahsatajik/Reinforcement-Learning.git
+    ```
 
 
 3. Navigate to the specific assignment directory you want to work on:
    
-    ```bash cd CAX/```
+    ```bash
+   cd CAX/
+    ```
     
 
 5. Follow the instructions provided in the assignment's code files to complete the tasks.
